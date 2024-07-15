@@ -75,7 +75,7 @@ The dataset is available in 8 CSV files, each containing specific information re
 
 ## Data Model
 
-![Data Model](./Untitled.png)
+![Data Model](./inbox_15074417_b15a300fe807965428250762308c248b_Untitled.png)
 
 
 ## Potential Use Cases
