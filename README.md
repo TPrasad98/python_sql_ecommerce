@@ -73,6 +73,11 @@ The dataset is available in 8 CSV files, each containing specific information re
 - **product_height_cm**: Height of the products ordered in centimeters
 - **product_width_cm**: Width of the product ordered in centimeters
 
+## Data Model
+
+![Data Model](./Untitled.png)
+
+
 ## Potential Use Cases
 
 Analyzing this dataset offers valuable insights into Target's Brazilian operations, revealing details about order processing, pricing strategies, payment and shipping efficiency, customer demographics, product characteristics, and customer satisfaction. This comprehensive dataset is a valuable resource for understanding various business aspects and enhancing strategic decision-making.
